@@ -12,7 +12,7 @@ html {
     -ms-user-select: none;
     user-select: none;
 }
-
+ 
 body,
 html,
 .flipper,
@@ -269,7 +269,7 @@ a:hover {
 
 .f {
     background: #3b5998;
-    background-image: url("https://garden.spoonflower.com/c/7165946/p/f/l/CfNh-xMLa69jP7dl6qK5gPd0-Lu0if-Rc5j7o_YtP2A9RBAM122b6iQo4t9lRw/Card%20Suits%20%2F%2F%20Small.jpg");
+    /* background-image: url("https://garden.spoonflower.com/c/7165946/p/f/l/CfNh-xMLa69jP7dl6qK5gPd0-Lu0if-Rc5j7o_YtP2A9RBAM122b6iQo4t9lRw/Card%20Suits%20%2F%2F%20Small.jpg"); */
     z-index: 1;
 }
 
